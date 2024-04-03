@@ -1,6 +1,6 @@
 proyekpsw
 -Pelatihan penggunaan github
 -pelatihan koding
--komunitas belajar github
+-proyek open source
 -kursus online
 -kolabolatif
